@@ -1,0 +1,44 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+
+    background:  url(../imagens/paisagem.jpg);
+    background-size: 100%;
+    
+}
+
+.content-fluid{ 
+   width: auto;
+   height: auto;
+}
+
+.logo_base{
+    background: #ffffffb7;
+    max-width: 30%;
+    margin-top: 4%;
+    margin-left: 35%;
+    border-radius: 3%;
+
+}
+
+.imglogo{
+    width: 50%;
+    margin-top: 7%;
+}
+
+.logo{
+    text-align: center;
+}
+
+.forlogin{
+    padding: 4%;
+}
+
+.tit{
+    margin-top: 4%;
+    margin-left: 10%;
+}
